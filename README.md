@@ -1,4 +1,4 @@
-### Instalção
+### Instalação
 Este projeto gera pontos aleatórios no plano e desenha conexões entre eles, evitando cruzar obstáculos representados por quadrados.
 
 - `main.py`: script principal com a lógica de geração, checagem de interseções e visualização.
